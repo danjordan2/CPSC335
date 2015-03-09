@@ -1,0 +1,2 @@
+<h2>CPSC 335 Algorithm Engineering</h2> 
+<p>Algorithm design using classical paradigms: exhaustive search, divide and conquer, reduction, dynamic programming and the greedy method. Asymptotic and experimental efficiency analysis. Problem hardness: lower bound, NP-completeness, and decidability. Methods for circumventing hardness. Implementing algorithms to solve practical problems. </p>
